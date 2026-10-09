@@ -31,7 +31,7 @@ I enjoy exploring complex problems, developing prototypes, and turning technical
 I'm interested in collaborating with developers, cybersecurity researchers, AI engineers, and people building useful technology.
 
 - GitHub: [@Gane34](https://github.com/Gane34)
-- Linkedin : www\.linkedin.com/ganesh-mandala
+- Linkedin : www.linkedin.com/in/ganesh-mandala
 
 ---
 
